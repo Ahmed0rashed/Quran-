@@ -4,8 +4,8 @@
   "private": true,
   "description": "المصحف المعلم - الفاتحة وجزء عم (نسخة الويب)",
   "scripts": {
-    "start": "serve .",
-    "deploy": "vercel --prod"
+    "build": "echo 'Static site ready'",
+    "start": "serve ."
   },
   "keywords": [
     "quran",
